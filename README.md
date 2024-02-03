@@ -1,6 +1,6 @@
-# flutter_application_1
+This folder will contain alle the TP of PMH class
 
-A new Flutter project.
+A new Flutter project and this contains the first TP_1
 
 ## Getting Started
 
